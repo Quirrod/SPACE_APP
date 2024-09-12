@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7dc48655f9f07840",
+        "id": "aced7db0aaa19351",
         "type": "tabs",
         "children": [
           {
-            "id": "1c8eda29953732a5",
+            "id": "f259fdcc7c57b036",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "FIles/Menu/Components.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "FIles/Menu/Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "FIles/Menu/Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "FIles/Menu/Components.md"
+              }
             }
           }
         ]
@@ -138,21 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1a1a991960c26bf",
+  "active": "f259fdcc7c57b036",
   "lastOpenFiles": [
+    "FIles/Core Features.md",
+    "FIles/Menu",
+    "Menu.md",
+    "Base idea.md",
     "FIles/Component",
     "FIles/Features",
-    "Menu.md",
     "FIles",
-    "FIles/Components.md",
-    "Base idea.md",
-    "FIles/Long-Term Vision and Scalability.md",
+    "FIles/Menu/Components.md",
+    "FIles/Menu/Long-Term Vision and Scalability.md",
     "Project Components.md",
-    "FIles/Objectives.md",
+    "FIles/Menu/Objectives.md",
     "Objetives.md",
-    "FIles/Impact.md",
-    "FIles/User Workflow.md",
-    "FIles/Technology Stack.md",
+    "FIles/Menu/Impact.md",
+    "FIles/Menu/User Workflow.md",
+    "FIles/Menu/Technology Stack.md",
     "FIles/Component/Hardware Components.md",
     "FIles/Features/Community Support and Expert Access.md",
     "FIles/Features/Customizable Reports.md",
@@ -160,7 +170,6 @@
     "FIles/Features/Automated Irrigation Control.md",
     "FIles/Features/Predictive Alerts.md",
     "FIles/Features/Data Dashboard.md",
-    "FIles/Core Features.md",
     "FIles/Component/Data Sources.md"
   ]
 }
