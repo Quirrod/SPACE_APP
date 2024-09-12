@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "7a99ec1a48c2b695",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dc48655f9f07840",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c8eda29953732a5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "364a8dca22136f72",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6ff9c5731089701",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1a1a991960c26bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5b730a3d9e1668e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51ab18a34ea9f09b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b4642b96df4ebd7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f56b0b3f2efe9961",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb6799f7110df5cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a889c0f320ca7a12",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e66702ef76930ef5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a8776c2b6c2eaed4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1c8eda29953732a5",
+  "lastOpenFiles": [
+    "Components.md",
+    "Base idea.md",
+    "Menu.md",
+    "Long-Term Vision and Scalability.md",
+    "Project Components.md",
+    "Objectives.md",
+    "Objetives.md",
+    "Impact.md",
+    "User Workflow.md",
+    "Technology Stack.md",
+    "Hardware Components.md",
+    "Community Support and Expert Access.md",
+    "Customizable Reports.md",
+    "Remote Sensing Integration.md",
+    "Automated Irrigation Control.md",
+    "Predictive Alerts.md",
+    "Data Dashboard.md",
+    "Core Features.md",
+    "Data Sources.md"
+  ]
+}
